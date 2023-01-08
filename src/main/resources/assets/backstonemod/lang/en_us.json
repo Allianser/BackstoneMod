@@ -1,0 +1,15 @@
+{
+	"item.backstone.hearthstone": "Backstone",
+	"item.backstone.on_cooldown": "Backstone is on cooldown",
+	"item.backstone.no_link": "Backstone is not linked to a waystone",
+	"item.backstone.missing_link": "Waystone is missing; Backstone link is broken",
+	"item.backstone.linked": "Backstone is now linked",
+	"item.backstone.canceled": "Backstone channel canceled",
+	"item.backstone.home_set": "Home set; link established",
+	"item.backstone.cooldown": "Cooldown: ",
+	"item.backstone.minutes": " minutes ",
+	"item.backstone.seconds": " seconds",
+	"config.backstone.channel_time": "ChannelTime",
+	"config.backstone.cooldown": "CooldownTime",
+	"config.backstone.dimBlacklist": "Dimension Blacklist"
+}

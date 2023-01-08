@@ -1,0 +1,15 @@
+{
+	"item.backstone.hearthstone": "Камень возврата",
+	"item.backstone.on_cooldown": "Камень заряжается",
+	"item.backstone.no_link": "Камень возврата не знает путевого камня",
+	"item.backstone.missing_link": "Путевой камень потерян; камень возврата потерял связь",
+	"item.backstone.linked": "Камень возврата связан с путевым камнем",
+	"item.backstone.canceled": "Запуск камня возврата отменён",
+	"item.backstone.home_set": "Дом выбран",
+	"item.backstone.cooldown": "Зарядка: ",
+	"item.backstone.minutes": " минут ",
+	"item.backstone.seconds": " секунд",
+	"config.backstone.channel_time": "ChannelTime",
+	"config.backstone.cooldown": "CooldownTime",
+	"config.backstone.dimBlacklist": "Dimension Blacklist"
+}
