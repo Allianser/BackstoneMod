@@ -9,7 +9,7 @@
 	"item.backstone.cooldown": "Зарядка: ",
 	"item.backstone.minutes": " минут ",
 	"item.backstone.seconds": " секунд",
-	"config.backstone.channel_time": "Длительность телепортации",
-	"config.backstone.cooldown": "Длительность зарядки",
-	"config.backstone.dimBlacklist": "Запрещённые измерения"
+	"config.backstone.channel_time": "ChannelTime",
+	"config.backstone.cooldown": "CooldownTime",
+	"config.backstone.dimBlacklist": "Dimension Blacklist"
 }

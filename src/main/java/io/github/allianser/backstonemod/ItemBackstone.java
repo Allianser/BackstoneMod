@@ -312,7 +312,7 @@ public static final String NAME = "backstone";
 				BlockState state = context.getLevel().getBlockState(context.getClickedPos());
 				if(context.getLevel().getBlockState(context.getClickedPos()).getBlock().isBed(state, context.getLevel(), context.getClickedPos(), context.getPlayer()))
 				{
-					// links bed to hearthstone
+					// links bed to backstone
 					ResourceKey<Level> dimensionKey = context.getPlayer().level.dimension();
 					
 					tagCompound.putInt("stoneX", context.getClickedPos().getX());
